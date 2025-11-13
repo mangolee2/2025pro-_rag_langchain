@@ -1,0 +1,164 @@
+drugs,title
+Trametinib;Palbociclib;Sorafenib;Cetuximab;Cetuximab+Palbociclib;Cetuximab+Trametinib;Cetuximab+Trametinib+Palbociclib,Conditionally reprogrammed colorectal cancer cells combined with mouse avatars identify synergy between EGFR and MEK or CDK4/6 inhibitors
+Trametinib;Dasatinib;Trametinib+Dasatinib,Combining MEK and SRC inhibitors for treatment of colorectal cancer demonstrate increased efficacy in vitro but not in vivo
+Trametinib;Palbociclib;Trametinib+Palbociclib,Sensitivity of KRAS-Mutant Colorectal Cancers to Combination Therapy That Cotargets MEK and CDK4/6
+Trametinib;Palbociclib;Trametinib+Palbociclib,Targeting RAS Mutant Colorectal Cancer with Dual Inhibition of MEK and CDK4/6
+Regorafenib;S63845;Regorafenib+S63845,Mcl-1 inhibition overcomes intrinsic and acquired regorafenib resistance in colorectal cancer
+Oxaliplatin;Everolimus;Oxaliplatin+Everolimus,Activation of the mTOR Pathway by Oxaliplatin in the Treatment of Colorectal Cancer Liver Metastasis
+Tetrandrine,Synergistic effects of tetrandrine combined with ionizing radiation on a murine colorectal carcinoma?bearing mouse model
+Irinotecan (Camptothecin),The Synergistic Antitumor Effect of Irinotecan and Flavonoids on Human Colon Cancer Xenograft Mice
+Obeticholic acid;nitazoxanide,"Synergistic tumor inhibition of colon cancer cells by nitazoxanide and obeticholic acid, a farnesoid X receptor ligand"
+Cetuximab,Significant Therapeutic Efficacy with Combined Radioimmunotherapy and Cetuximab in Preclinical Models of Colorectal Cancer
+temozolomide 100,Effect of single and multiple administration of an O?6-benzylguanine/temozolomide combination: an evaluation in a human melanoma xenograft model
+oxaliplatin,Synergistic killing of colorectal cancer cells by oxaliplatin and ABT-737
+Regorafenib,Therapeutic Efficacy and Inhibitory Mechanism of Regorafenib Combined With Radiation in Colorectal Cancer
+Vemurafenib;Irinotecan;cetuximab,Phase IB Study of Vemurafenib in Combination with Irinotecan and Cetuximab in Patients with Metastatic Colorectal Cancer with BRAFV600E Mutation
+Dasatinib,"Evaluation of the efficacy of dasatinib, a Src/Abl inhibitor, in colorectal cancer cell lines and explant mouse model"
+Cetuximab;Cetuximab+Dasatinib,Dasatinib sensitizes KRAS mutant colorectal tumors to cetuximab
+Regorafenib,Regorafenib suppresses epidermal growth factor receptor signaling-modulated progression of colorectal cancer
+Regorafenib,Therapeutic Efficacy and Inhibitory Mechanism of Regorafenib Combined With Radiation in Colorectal Cancer
+Regorafenib,Regorafenib Inhibits Colorectal Tumor Growth through PUMA-Mediated Apoptosis
+Trametinib;ABT263;Trametinib+ABT263,Low?dose trametinib and Bcl?xL antagonist have a specific antitumor effect in KRAS?mutated colorectal cancer cells
+Regorafenib;anti-PD1;Regorafenib+aPD1;ISO,Regorafenib enhances anti-PD1 immunotherapy efficacy in murine colorectal cancers and their combination prevents tumor regrowth
+Erlotinib;Cetuximab;Cetuximab+BGB-283 (Lifirafenib),"BGB-283, a Novel RAF Kinase and EGFR Inhibitor, Displays Potent Antitumor Activity in?BRAF-Mutated Colorectal Cancers"
+Irinotecan;Irinotecan+AZD2014;AZD2014;Oxaliplatin,Synergistic Anti-Tumor Effect of mTOR Inhibitors with Irinotecan on Colon Cancer Cells
+Irinotecan,https://www.mdpi.com/2072-6694/11/10/1581
+Irinotecan,"Targeting Methionine Addiction Combined With Low-dose Irinotecan Arrested Colon Cancer in Contrast to High-dose Irinotecan Alone, Which Was Ineffective, in a Nude-mouse Model"
+Decitabine;anti-PD-1;Decitabine+anti-PD-1,Low-dose decitabine enhances the effect of PD-1 blockade in colorectal cancer with microsatellite stability by re-modulating the tumor microenvironment
+Metformin;Metformin+5-FU,Metformin Inhibits Cellular Proliferation and Bioenergetics in Colorectal Cancer Patient?Derived Xenografts
+Vincristine;Trametinib;Vincristine+Trametinib,Vincristine Enhances the Efficacy of MEK Inhibitors in Preclinical Models of KRAS-mutant Colorectal Cancer
+Eribulin;BKM120;Eribulin+BKM120,PI3K inhibition enhances the anti-tumor effect of eribulin in triple negative breast cancer
+Sorafenib;Everolimus;Sorafenib+Everolimus;Docetaxel;Bevacizumab;Docetaxel+Bevacizumab;PX-478;Neratinib;PX-478+Neratinib,Integrative In Vivo Drug Testing Using Gene Expression Signature and Patient-Derived Xenografts from Treatment-Refractory HER2 Positive and Triple-Negative Subtypes of Breast Cancer
+Everolimus;Everolimus+AZD2014;AZD2014,Targeting mTOR pathway inhibits tumor growth in different molecular subtypes of triple-negative breast cancers
+Everolimus;T-MD1,mTOR Inhibition and T-DM1 in HER2-Positive Breast Cancer
+Neratinib;Everolimus;Neratinib+Everolimus;Trametinib;Neratinib+Trametinib;Palbociclib;Neratinib+Palbociclib,"Combining Neratinib with CDK4/6, mTOR, and MEK Inhibitors in Models of HER2-positive Cancer"
+Dasatinib;Dasatinib+Cetuximab,Cetuximab PET delineated changes in cellular distribution of EGFR upon dasatinib treatment in triple negative breast cancer
+Docetaxel;S63845;Docetaxel+S63845;Trastuzumab;Trastuzumab+S63845,Synergistic action of the MCL-1 inhibitor S63845 with current therapies in preclinical models of triple-negative and HER2-amplified breast cancer
+erlotinib;palbociclib;erlotinib+palbociclib,"Expression of MT4-MMP, EGFR, and RB in Triple-Negative Breast Cancer Strongly Sensitizes Tumors to Erlotinib and Palbociclib Combination Therapy"
+Gefitinib;FTY720;Gefitinib+FTY720,Inhibition of basal-like breast cancer growth by FTY720 in combination with epidermal growth factor receptor kinase blockade
+Eribulin;Palbociclib;Eribulin+Palbociclib;Fulvestrant,"Doublet and Triplet Combinations of Eribulin, Fulvestrant, and Palbociclib in Preclinical Breast Cancer Models"
+trametinib,A Population of Heterogeneous Breast Cancer Patient-Derived Xenografts Demonstrate Broad Activity of PARP Inhibitor in BRCA1/2 Wild-Type Tumors?
+EC359;Vorinostat;EC359+Vorinostat,LIFR inhibition enhances the therapeutic efficacy of HDAC inhibitors in triple negative breast cancer
+EGCG;Temsirolimus;EGCG+Temsirolimus,Dual Fatty Acid Synthase and HER2 Signaling Blockade Shows Marked Antitumor Activity against Breast Cancer Models Resistant to Anti-HER2 Drugs
+PF-03084014;Docetaxel;PF-03084014+Docetaxel,Synergistic Effect of the ¥ã-Secretase Inhibitor PF-03084014 and Docetaxel in Breast Cancer Models
+DZ-2384;paclitaxel,DZ-2384 has a superior preclinical profile to taxanes for the treatment of triple-negative breast cancer and is synergistic with anti-CTLA-4 immunotherapy
+bevacizumab;vinorelbine;olaparib;eribulin,"A Triple-negative Matrix-producing Breast Carcinoma Patient-derived Orthotopic Xenograft (PDOX) Mouse Model Is Sensitive to Bevacizumab and Vinorelbine, Regressed by Eribulin and Resistant to Olaparib"
+Docetaxel;Carboplatin;docetaxel+carboplatin;Doxorubicin,"Activity of docetaxel, carboplatin, and doxorubicin in patient-derived triple-negative breast cancer xenografts"
+Carboplatin,Live Cell Mass Accumulation Measurement Non-Invasively Predicts Carboplatin Sensitivity in Triple-Negative Breast Cancer Patient-Derived Xenografts
+Paclitaxel,JAK2 regulates paclitaxel resistance in triple negative breast cancers
+selinexor;paclitaxel;paclitaxel+selinexor;Eribulin;Eribulin+selinexor;Carboplatin;Carboplatin+selinexor,Selinexor (KPT-330) demonstrates anti-tumor efficacy in preclinical models of triple-negative breast cancer
+Doxorubicin,Pharmacometabolomics reveals urinary diacetylspermine as a biomarker of doxorubicin effectiveness in triple negative breast cancer
+Cisplatin(CDDP),Carbon nanotube capsules enhance the?in vivo?efficacy of cisplatin
+Adriamycin (doxorubicin)+cyclophosphamide,HORMAD1?overexpression predicts response to anthracycline?cyclophosphamide and survival in triple-negative breast cancers
+Docetaxel;Adriamycin (doxorubicin)+cyclophosphamide;Capecitabine;Cisplatin;Fluorouracil(5-FU)+vinorebine;Capecitabine without pretreatment;Paclitaxel+bevacizumab;Capecitabine,Capecitabine Efficacy Is Correlated with TYMP and RB1 Expression in PDX Established from Triple-Negative Breast Cancers?
+Everolimus;Olaparib;Everolimus+Olaparib,Inhibition of mTOR downregulates expression of DNA repair proteins and is highly efficient against BRCA2-mutated breast cancer in combination to PARP inhibition
+AZD0156;Irinotecan;AZD0156+Irinotecan;AZD0156+Irinotecan+fluorouracil,ATM kinase inhibitor AZD0156 in combination with irinotecan and 5-fluorouracil in preclinical models of colorectal cancer
+Sunitinib,Sunitinib facilitates metastatic breast cancer spreading by inducing endothelial cell senescence
+Sunitinib;Paclitaxel;Sunitinib+Paclitaxel,A Model of Postsurgical Advanced Metastatic Breast Cancer More Accurately Replicates the Clinical Efficacy of Antiangiogenic Drugs
+Sunitinib;Crizotinib;Sunitinib+Crizotinib,Combinatorial inhibition of PTPN12-regulated receptors leads to a broadly effective therapeutic strategy in triple-negative breast cancer
+Carboplatin;Olaparib,Establishment of chemosensitivity tests in triple-negative and BRCA-mutated breast cancer patient-derived xenograft models
+Carboplatin;Carboplatin+Prexasertib,The mitotic checkpoint is a targetable vulnerability of carboplatin-resistant triple negative breast cancers
+Carboplatin;LGK974;Carboplatin+LGK974,Wnt/¥â-Catenin Inhibition Disrupts Carboplatin Resistance in Isogenic Models of Triple-Negative Breast Cancer
+Carboplatin;Triplatin,Exploitation of Sulfated Glycosaminoglycan Status for Precision Medicine of Triplatin in Triple-Negative Breast Cancer?
+Carboplatin;AZD1775;Carboplatin+AZD1775,Cyclin E Overexpression Sensitizes Triple-Negative Breast Cancer to Wee1 Kinase Inhibition
+Trastuzumab,Dual mTOR Kinase Inhibitor MLN0128 Sensitizes HR+/HER2+?Breast Cancer Patient-Derived Xenografts to Trastuzumab or Fulvestrant
+Trastuzumab;pertuzumab;Trastuzumab+pertuzumab;TAS0728,Acquired resistance to trastuzumab/pertuzumab or to T-DM1 in vivo can be overcome by HER2 kinase inhibition with TAS0728
+Trastuzumab+GB235;Trastuzumab;GB235,A novel anti-HER2 antibody GB235 reverses Trastuzumab resistance in HER2-expressing tumor cells?in vitro?and?in vivo
+Trastuzumab;TP-0903;Trastuzumab+TP-0903,Targeting HER2-AXL heterodimerization to overcome resistance to HER2 blockade in breast cancer
+Everolimus,Acquired Resistance to Endocrine Treatments Is Associated with Tumor-Specific Molecular Changes in Patient-Derived Luminal Breast Cancer Xenografts
+shCtrl+Everolimus;shSHOC2+Everolimus,SHOC2 mediates the drug-resistance of triple-negative breast cancer cells to everolimus
+Adriamycin (doxorubicin)+cyclophosphamide;DFX;Adriamycin (doxorubicin)+cyclophosphamide+DFX,The iron chelator deferasirox synergises with chemotherapy to treat triple-negative breast cancers
+Paclitaxel;Paclitaxel+CORT108297,Discovery of a Glucocorticoid Receptor (GR) Activity Signature Using Selective GR ANTagonism in ER-Negative Breast Cancer
+Docetaxel,A human breast cancer-derived xenograft and organoid platform for drug discovery and precision oncology
+Paclitaxel;Dasatinib;Paclitaxel+Dasatinib,IdeNTification of Src Family Kinases as PoteNTial Therapeutic Targets for Chemotherapy-ResistaNT Triple Negative Breast Cancer
+Doxorubicin,Doxorubicin Conjugation to Reovirus Improves Oncolytic Efficacy in Triple-Negative Breast Cancer
+ElacestraNT,ElacestraNT demonstrates strong aNTi-estrogenic activity in PDX models of estrogen-receptor positive endocrine-resistaNT and fulvestraNT-resistaNT breast cancer
+FulvestraNT;ElacestraNT;Palbociclib;FulvestraNT+Palbociclib;ElacestraNT+Palbociclib,ElacestraNT (RAD1901) exhibits aNTi-tumor activity in multiple ER+ breast cancer models resistaNT to CDK4/6 inhibitors
+Palbociclib;Palbociclib+IACS-10759,Oxidative Phosphorylation Is a Metabolic Vulnerability in Chemotherapy-ResistaNT Triple-Negative Breast Cancer
+Vinorelbine;Neratinib+Vinorelbine,Neratinib Synergizes with Trastuzumab ANTibody Drug Conjugate or with Vinorelbine to Treat HER2 Mutated Breast Cancer PatieNT Derived Xenografts and Organoids
+Palbociclib;RAD140;Palbociclib+RAD140,Selective Androgen Receptor Modulator RAD140 Inhibits the Growth of Androgen/Estrogen Receptor?Positive Breast Cancer Models with a Distinct Mechanism of Action
+Carboplatin;Carboplatin+MRx102,The triptolide derivative MRx102 inhibits WNT pathway activation and has poteNT aNTi-tumor effects in lung cancer
+Docetaxel;Docetaxel+Palbociclib;,Combining CDK4/6 inhibition with taxanes enhances aNTi-tumor efficacy by sustained impairmeNT of pRB-E2F pathways in squamous cell lung cancer
+Carboplatin+Paclitaxel;Gemcitabine+Cisplatin;Pemetrexed+Cisplatin;Etoposide+Cisplatin;Pemetrexed+Cisplatin;,Evaluation of Combined Chemotherapy and Genomic-Driven Targeted Therapy in PatieNT-Derived Xenografts IdeNTifies New Therapeutic Approaches in Squamous Non-Small-Cell Lung Cancer PatieNTs
+Carboplatin+Paclitaxel,3-Dimensional PatieNT-Derived Lung Cancer Assays Reveal Resistance to Standards-of-Care Promoted by Stromal Cells but Sensitivity to Histone Deacetylase Inhibitors?
+Cisplatin;Docetaxel;Carboplatin,Preclinical ANTitumor Efficacy of BAY 1129980?a Novel Auristatin-Based ANTi-C4.4A (LYPD3) ANTibody?Drug Conjugate for the TreatmeNT of Non?Small Cell Lung Cancer
+Cisplatin+Etoposide;Cisplatin+Etoposide+AZD-8055;,Role of mTOR As an EsseNTial Kinase in SCLC
+Cisplatin;CBL1037;Cisplatin+CBL1037,The FACT inhibitor CBL0137 Synergizes with Cisplatin in Small-Cell Lung Cancer by Increasing?NOTCH1?Expression and Targeting Tumor-Initiating Cells
+Cisplatin+Etoposide,CDK4/6 Inhibitors Impede Chemoresistance and Inhibit Tumor Growth of Small Cell Lung Cancer
+Etoposide;Etoposide+ABT-737,Rapamycin Rescues ABT-737 Efficacy in Small Cell Lung Cancer
+Cisplatin;BGJ398;Cisplatin+BGJ398,Cisplatin Increases Sensitivity to FGFR Inhibition in PatieNT-Derived Xenograft Models of Lung Squamous Cell Carcinoma?
+Cisplatin;Erlotinib;Cisplatin+Erlotinib;,Sensitization of EGFR Wild-Type Non?Small Cell Lung Cancer Cells to EGFR-Tyrosine Kinase Inhibitor Erlotinib
+Ponatinib;Cisplatin,RET fusions observed in lung and colorectal cancers are sensitive to ponatinib
+Ponatinib;Trametinib;Ponatinib+Trametinib,A combinatorial strategy for treating KRAS-mutaNT lung cancer
+Cisplatin;Atezolizumab,PatieNT-derived non-small cell lung cancer xenograft mirrors complex tumor heterogeneity
+Bevacizumab,DiffereNTial ANTitumor Activity of Aflibercept and Bevacizumab in PatieNT-Derived Xenograft Models of Colorectal Cancer
+Bevacizumab,DiscoNTinuous Schedule of Bevacizumab in Colorectal Cancer Induces Accelerated Tumor Growth and Phenotypic Changes
+FulvestraNT;FulvestraNT+BYL719,Analysis of genomic and non-genomic signaling of estrogen receptor in PDX models of breast cancer treated with a combination of the PI3K inhibitor alpelisib (BYL719) and fulvestraNT
+FulvestraNT+Abemaciclib,Nanoparticle-Based Combination Therapy Enhances FulvestraNT Efficacy and Overcomes Tumor Resistance in ER-Positive Breast Cancer
+FulvestraNT,Modeling the novel SERD elacestraNT in cultured fulvestraNT-refractory HR-positive breast circulating tumor cells
+FulvestraNT,ElacestraNT demonstrates strong aNTi-estrogenic activity in PDX models of estrogen-receptor positive endocrine-resistaNT and fulvestraNT-resistaNT breast cancer
+FulvestraNT;FulvestraNT+vistusertib,Combination of mTORC1/2 inhibitor vistusertib plus fulvestraNT in vitro and in vivo targets oestrogen receptor-positive endocrine-resistaNT breast cancer
+FulvestraNT;FulvestraNT+Alpelisib;FulvestraNT+Ribociclib;FulvestraNT+Ribociclib+Alpelisib;FulvestraNT+Palbociclib,Targeting activated PI3K/mTOR signaling overcomes acquired resistance to CDK4/6-based therapies in preclinical models of hormone receptor-positive breast cancer
+FulvestraNT+Everolimus;FulvestraNT+Palbociclib;FulvestraNT,Effective combination therapies in preclinical endocrine resistaNT breast cancer models harboring ER mutations
+FulvestraNT;FulvestraNT+Palbociclib;FulvestraNT+Everolimus,"ElacestraNT (RAD1901), a Selective Estrogen Receptor Degrader (SERD), Has ANTitumor Activity in Multiple ER+?Breast Cancer PatieNT-derived Xenograft Models"
+FulvestraNT,Oral Estrogen Receptor PROTAC VepdegestraNT (ARV-471) Is Highly Efficacious as Monotherapy and in Combination with CDK4/6 or PI3K/mTOR Pathway Inhibitors in Preclinical ER+?Breast Cancer Models
+FulvestraNT;FulvestraNT+BYL719,PI3K inhibition results in enhanced estrogen receptor function and dependence in hormone receptor?positive breast cancer
+FulvestraNT;FulvestraNT+AZD5363,AKT ANTagonist AZD5363 Influences Estrogen Receptor Function in Endocrine-ResistaNT Breast Cancer and Synergizes with FulvestraNT (ICI182780)?In Vivo
+FulvestraNT+capivasertib;FulvestraNT,Combining the AKT inhibitor capivasertib and SERD fulvestraNT is effective in palbociclib-resistaNT ER+ breast cancer preclinical models
+Prexasertib+Samotolisib;Prexasertib,"Preclinical Evaluation and Phase Ib Study of Prexasertib, a CHK1 Inhibitor, and Samotolisib (LY3023414), a Dual PI3K/mTOR Inhibitor"
+Palbociclib;Abemaciclib,Abemaciclib Is Effective in Palbociclib-ResistaNT Hormone Receptor?Positive Metastatic Breast Cancers
+tamoxifen;Abemaciclib;,HER4 Affects Sensitivity to Tamoxifen and Abemaciclib in Luminal Breast Cancer Cells and Restricts Tumor Growth in MCF-7-Based Humanized Tumor Mice
+FulvestraNT+Palbociclib;FulvestraNT,Dual Targeting of CDK4/6 and BCL2 Pathways AugmeNTs Tumor Response in Estrogen Receptor?Positive Breast Cancer
+ado-trastuzumab emtansine,"ARX788, a Site-specific ANTi-HER2 ANTibody?Drug Conjugate, Demonstrates PoteNT and Selective Activity in HER2-low and T-DM1?resistaNT Breast and Gastric Cancers"
+Palbociclib+Capivasertib;Palbociclib+Alpelisib;Capivasertib;Alpelisib;Palbociclib,Combined inhibition of CDK4/6 and AKT is highly effective against the luminal androgen receptor (LAR) subtype of triple negative breast cancer
+Everolimus;Capivasertib,Mediator kinase inhibitors suppress triple-negative breast cancer growth and extend tumor suppression by mTOR and AKT inhibitors
+FulvestraNT,Pharmacological Targeting of Androgen Receptor Elicits CoNText-Specific Effects in Estrogen Receptor?Positive Breast Cancer
+Lapatinib;Neratinib,Targeting transcription of?MCL-1?sensitizes?HER2-amplified breast cancers to HER2 inhibitors
+Neratinib,Targeting transcription of?MCL-1?sensitizes?HER2-amplified breast cancers to HER2 inhibitors
+Sorafenib+Sildenafil+Afatinib;Sorafenib+Sildenafil;Lapatinib,Multi-kinase inhibitors iNTeract with sildenafil and ERBB1/2/4 inhibitors to kill tumor cells?in vitro?and?in vivo
+Everolimus+Tamoxifen;Everolimus+FulvestraNT;FulvestraNT;Ovariectomy+Letrozole;Tamoxifen;,Acquired Resistance to Endocrine TreatmeNTs Is Associated with Tumor-Specific Molecular Changes in PatieNT-Derived Luminal Breast Cancer Xenografts
+Letrozole;Letrozole+AST487,Targeting the receptor tyrosine kinase RET in combination with aromatase inhibitors in ER positive breast cancer xenografts
+Docetaxel;Docetaxel+Z8,KK-LC-1 as a therapeutic target to eliminate ALDH+ stem cells in triple negative breast cancer
+Pertuzumab+Trastuzumab;Neratinib+Trastuzumab;Pertuzumab;Trastuzumab;Neratinib;ED/Pertuzumab+Trastuzumab;ED/Neratinib+Trastuzumab;ED/Pertuzumab;ED/Trastuzumab;ED/Neratinib;,Neratinib plus trastuzumab is superior to pertuzumab plus trastuzumab in HER2-positive breast cancer xenograft models
+Tamoxifen+Neratinib;Tamoxifen;Neratinib;Trastuzumab,Early stability and late random tumor progression of a HER2-positive primary breast cancer patieNT-derived xenograft
+Carboplatin;Olaparib;,BRCA1-methylated triple negative breast cancers previously exposed to neoadjuvaNT chemotherapy form RAD51 foci and respond poorly to olaparib
+Talazoparib,A Population of Heterogeneous Breast Cancer PatieNT-Derived Xenografts Demonstrate Broad Activity of PARP Inhibitor in BRCA1/2 Wild-Type Tumors?
+Olaparib,Estrogen Therapy Induces Receptor-DependeNT DNA Damage Enhanced by PARP Inhibition in ER+ Breast Cancer
+Palbociclib;Abemaciclib,RB expression confers sensitivity to CDK4/6 inhibitor?mediated radiosensitization across breast cancer subtypes
+Palbociclib,Short-term CDK4/6 Inhibition Radiosensitizes Estrogen Receptor?Positive Breast Cancers
+Ribociclib+Letrozole;Letrozole;Ribociclib,The poteNT and selective cyclin-dependeNT kinases 4 and 6 inhibitor ribociclib (LEE011) is a versatile combination partner in preclinical cancer models
+Tucatinib+Trastuzumab;Trastuzumab;Tucatinib;Docetaxel;Tucatinib+Docetaxel,Preclinical Activity of HER2-Selective Tyrosine Kinase Inhibitor Tucatinib as a Single AgeNT or in Combination with Trastuzumab or Docetaxel in Solid Tumor Models
+Milademetan+Trametinib;Trametinib;Milademetan;,Combination Therapy With MDM2 and MEK Inhibitors Is Effective in PatieNT-Derived Models of Lung Adenocarcinoma With ConcurreNT Oncogenic Drivers and?MDM2?Amplification
+Afatinib+Palbociclib;Palbociclib;Afatinib,Palbociclib overcomes afatinib resistance in non-small cell lung cancer
+Afatinib,HER2 exon 20 insertions in non-small-cell lung cancer are sensitive to the irreversible pan-HER receptor tyrosine kinase inhibitor pyrotinib
+Afatinib,Novel Preclinical PatieNT-Derived Lung Cancer Models Reveal Inhibition of HER3 and MTOR Signaling as Therapeutic Strategies for?NRG1?Fusion-Positive Cancers
+Crizotinib;Crizotinib+Erlotinib;Alectinib;Lorlatinib,Rapid Acquisition of Alectinib Resistance in?ALK-Positive Lung Cancer With High Tumor Mutation Burden
+Afatinib;Entrectinib;Crizotinib;Osimertinib;Gefitinib;Brigatinib;Lorlatinib;,Comparative Study on the Efficacy and Exposure of Molecular Target Agents in Non?small Cell Lung Cancer PDX Models with Driver Genetic Alterations
+Osimertinib-AKR;Osimertinib-EV;Gefitinib-AKR;Osimertinib-EV;Gefitinib-EV,Targeting AKR1B1 inhibits glutathione de novo synthesis to overcome acquired resistance to EGFR-targeted therapy in lung cancer
+Osimertinib;Dacomitinib;Afatinib,The Lifted Veil of Uncommon EGFR Mutation p.L747P in Non-Small Cell Lung Cancer: Molecular Feature and Targeting Sensitivity to Tyrosine Kinase Inhibitors
+Osimertinib,"ONO-7475, a Novel AXL Inhibitor, Suppresses the Adaptive Resistance to Initial EGFR-TKI Treatment in?EGFR-Mutated Non?Small Cell Lung Cancer"
+Gefitinib;Gefitinib+DBDx,Enhancing the Therapeutic Efficacy of Gefitinib in Human Non-Small-Cell Lung Cancer through Drug Combination
+Gefitinib+XBS;Gefitinib,Xie-Bai-San increases NSCLC cells sensitivity to gefitinib by inhibiting Beclin-1 mediated autophagosome formation
+Gefitinib,Activation of the HSP27-AKT axis contributes to gefitinib resistance in non-small cell lung cancer cells independent of EGFR mutations
+Erlotinib,"Mutant-Selective Irreversible EGFR Inhibitor, Naquotinib, Inhibits Tumor Growth in NSCLC Models with EGFR-Activating Mutations, T790M Mutation, and AXL Overexpression"
+Osimertinib+Capivasertib;Osimertinib,Overcoming Osimertinib Resistance with AKT Inhibition in EGFRm-Driven Non?Small Cell Lung Cancer with PIK3CA/PTEN Alterations
+Osimertinib,"Pharmacokinetic/Pharmacodynamic Analysis of Savolitinib plus Osimertinib in an EGFR Mutation?Positive, MET-Amplified Non?Small Cell Lung Cancer Model"
+Afatinib;Trametinib,Evaluation of Combined Chemotherapy and Genomic-Driven Targeted Therapy in Patient-Derived Xenografts Identifies New Therapeutic Approaches in Squamous Non-Small-Cell Lung Cancer Patients
+CR+Alectinib;Alectinib;CR+Crizotinib;Crizotinib,AXL and SHC1 confer crizotinib resistance in patient-derived xenograft model of ALK-driven lung cancer
+Ceritinib;Crizotinib;Lorlatinib;Alectinib;,"Discovery of a novel ALK/ROS1/FAK inhibitor, APG-2449, in preclinical non-small cell lung cancer and ovarian cancer models"
+Pembrolizumab;amivantamab;Pembrolizumab+amivantamab;,Exploration of Immune-Modulatory Effects of Amivantamab in Combination with Pembrolizumab in Lung and Head and Neck Squamous Cell Carcinoma
+Repotrectinib;Lorlatinib;Entrectinib;Ceritinib;Crizotinib;,Repotrectinib Exhibits Potent Antitumor Activity in Treatment-Na?ve and Solvent-Front?Mutant ROS1-Rearranged Non?Small Cell Lung Cancer
+Osimertinib;Osimertinib+Lurbinectedin,De Novo?and Histologically Transformed Small-Cell Lung Cancer Is Sensitive to Lurbinectedin Treatment Through the Modulation of EMT and NOTCH Signaling Pathways
+Osimertinib,"BBT-176, a Novel Fourth-Generation Tyrosine Kinase Inhibitor for Osimertinib-Resistant EGFR Mutations in Non?Small Cell Lung Cancer"
+Lorlatinib,Diverse Resistance Mechanisms to the Third-Generation ALK Inhibitor Lorlatinib in ALK-Rearranged Lung Cancer
+Gefitinib,244-MPT overcomes gefitinib resistance in non-small cell lung cancer cells
+Osimertinib;Osimertinib+Alotinib,Osimertinib in combination with anti-angiogenesis therapy presents a promising option for osimertinib-resistant non-small cell lung cancer
+Crizotinib;Ribociclib;Crizotinib+Ribociclib,MYC?Promotes Tyrosine Kinase Inhibitor Resistance in?ROS1-Fusion-Positive Lung Cancer
+Osimertinib+Trametinib;Osimertinib;Etoposide+Nedaplatin;Anlotinib;Paclitaxel+Carboplatin;Sotorasib,Utility of patient-derived xenografts to evaluate drug sensitivity and select optimal treatments for individual non-small-cell lung cancer patients
+Sotorasib+Adavosertib;Adavosertib;Sotorasib,WEE1 confers resistance to KRASG12C?inhibitors in non-small cell lung cancer
+Tipifarnib+Sotorasib;Sotorasib;Tipifarnib;Osimertinib+Tipifarnib;Osimertinib,Farnesyltransferase inhibition overcomes oncogene-addicted non-small cell lung cancer adaptive resistance to targeted therapies
+Trametinib+AMG176;Sotorasib+AMG176;Trametinib;Sotorasib,LKB1 regulates JNK-dependent stress signaling and apoptotic dependency of?KRAS-mutant lung cancers
+Crizotinib;Selinexor;Erlotinib;Trametinib;,Antitumor efficacy of XPO1 inhibitor Selinexor in?KRAS-mutant lung adenocarcinoma patient-derived xenografts
+Trametinib+Midostaurin;Midostaurin;Trametinib,Signature-driven repurposing of Midostaurin for combination with MEK1/2 and KRASG12C inhibitors in lung cancer
+Costunolide;Osimertinib;Costunolide+Osimertinib,Costunolide is a dual inhibitor of MEK1 and AKT1/2 that overcomes osimertinib resistance in lung cancer
+Trametinib;Trametinib+KRT-232;Navitoclax;Navitoclax+Trametinib;Navitoclax+KRT232,KRT-232 and navitoclax enhance trametinib¡¯s anti-Cancer activity in non-small cell lung cancer patient-derived xenografts with KRAS mutations

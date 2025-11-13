@@ -1,0 +1,53 @@
+single_drug,title,Generic_Drug_List
+palbociclib; afatinib; letrozole; ribociclib; abemaciclib,Palbociclib overcomes afatinib resistance in non-small cell lung cancer,PALBOCICLIB;AFATINIB;LETROZOLE;RIBOCICLIB;ABEMACICLIB
+erlotinib; regorafenib,"Regorafenib suppresses epidermal growth factor receptor signaling-
+modulated progression of colorectal cancer",ERLOTINIB;REGORAFENIB
+pyrotinib; afatinib; T-DM1,"HER2 exon 20 insertions in non-small-cell lung cancer
+are sensitive to the irreversible pan-HER receptor
+tyrosine kinase inhibitor pyrotinib",PYROTINIB;AFATINIB;TRASTUZUMAB EMTANSINE
+gefitinib; rapamycin; chloroquine; 3-methyladenine,Xie-Bai-San increases NSCLC cells sensitivity to gefitinib by inhibiting Beclin-1 mediated autophagosome formation,GEFITINIB;SIROLIMUS;CHLOROQUINE;3-METHYLADENINE
+alectinib; crizotinib; lorlatinib; naquotinib,"Rapid Acquisition of Alectinib Resistance in
+ALK-Positive Lung Cancer With High Tumor
+Mutation Burden",ALECTINIB;CRIZOTINIB;LORLATINIB;NAQUOTINIB
+rapamycin ,"Novel Preclinical Patient-Derived Lung Cancer
+Models Reveal Inhibition of HER3 and MTOR
+Signaling as Therapeutic Strategies for NRG1
+Fusion-Positive Cancers",SIROLIMUS
+milademetan; trametinib; selpercatinib,"Combination Therapy With MDM2 and MEK
+Inhibitors Is Effective in Patient-Derived Models of
+Lung Adenocarcinoma With Concurrent Oncogenic
+Drivers and MDM2 Amplification",MILADEMETAN;TRAMETINIB;SELPERCATINIB
+CDDP,Carbon nanotube capsules enhance the in vivo efficacy of cisplatin,CISPLATIN
+topotecan; pazopanib; bevacizumab; EZN-2208,"Discontinuous Schedule of
+Bevacizumab in Colorectal
+Cancer Induces Accelerated
+Tumor Growth and Phenotypic
+Changes",TOPOTECAN;PAZOPANIB;BEVACIZUMAB;FIRTECAN PEGOL
+Selinexor; Trametinib; erlotinib; crizotinib,Antitumor efficacy of XPO1 inhibitor Selinexor in?KRAS-mutant lung adenocarcinoma patient-derived xenografts,SELINEXOR;TRAMETINIB;ERLOTINIB;CRIZOTINIB
+sunitinib; pazopanib; paclitaxel; cyclophosphamide; tegafur; UFT,"A Model of Postsurgical Advanced Metastatic Breast Cancer
+More Accurately Replicates the Clinical Efficacy of
+Antiangiogenic Drugs",SUNITINIB;PAZOPANIB;PACLITAXEL;CYCLOPHOSPHAMIDE;TEGAFUR;TEGAFUR-URACIL
+eribulin; palbociclib; fulvestrant,"Doublet and Triplet Combinations of Eribulin, Fulvestrant, 
+and Palbociclib in Preclinical Breast Cancer Models",ERIBULIN;PALBOCICLIB;FULVESTRANT
+paclitaxel; cisplatin; doxorubicin; atezolizumab; afatinib; AZD4547; EAI045; AZD9291,"Patient-derived non-small cell lung cancer xenograft mirrors 
+complex tumor heterogeneity",PACLITAXEL;CISPLATIN;DOXORUBICIN;ATEZOLIZUMAB;AFATINIB;FEXAGRATINIB;EAI045;OSIMERTINIB
+fulvestrant; trastuzumab,"Dual mTOR Kinase Inhibitor MLN0128 Sensitizes
+HRþ/HER2þBreast Cancer Patient-Derived
+Xenografts to Trastuzumab or Fulvestrant",FULVESTRANT;TRASTUZUMAB
+trametinib; palbociclib,"Sensitivity of KRAS-Mutant Colorectal Cancers to
+Combination Therapy That Cotargets MEK and
+CDK4/6",TRAMETINIB;PALBOCICLIB
+enzalutamide; rad140; apalutamide; darolutamide; rd162; estradiol; dihydrotestosterone; doxycycline,"Pharmacological Targeting of Androgen Receptor Elicits
+Context-Specific Effects in Estrogen Receptor–Positive
+Breast Cancer",ENZALUTAMIDE;VOSILASARM;APALUTAMIDE;DAROLUTAMIDE;RD162;ESTRADIOL;ANDROSTANOLONE;DOXYCYCLINE
+savolitinib; osimertinib,"Pharmacokinetic/Pharmacodynamic Analysis of
+Savolitinib plus Osimertinib in an EGFR Mutation–
+Positive, MET-Amplified Non–Small Cell Lung
+Cancer Model",SAVOLITINIB;OSIMERTINIB
+docetaxel; paclitaxel; carboplatin; cisplatin; vinorelbine; C4.4A-ADC,"Preclinical Antitumor Efficacy of BAY 1129980—
+a Novel Auristatin-Based Anti-C4.4A (LYPD3)
+Antibody–Drug Conjugate for the Treatment of
+Non–Small Cell Lung Cancer",DOCETAXEL;PACLITAXEL;CARBOPLATIN;CISPLATIN;VINORELBINE;C4.4A-ADC
+tucatinib; neratinib; lapatinib; erlotinib; gefitinib,"Preclinical Activity of HER2-Selective Tyrosine Kinase
+Inhibitor Tucatinib as a Single Agent or in Combination
+with Trastuzumab or Docetaxel in Solid Tumor Model",TUCATINIB;NERATINIB;LAPATINIB;ERLOTINIB;GEFITINIB

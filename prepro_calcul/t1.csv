@@ -1,0 +1,30 @@
+drug,title
+PALLADIUM;LEE,CDK4/6 Inhibitors Impede Chemoresistance and Inhibit Tumor Growth of Small Cell Lung Cancer
+-,Conditionally reprogrammed colorectal cancer cells combined with mouse avatars identify synergy between EGFR and MEK or CDK4/6 inhibitors
+TRAMETINIB;NAVITOCLAX;NAVTEMADLIN,KRT-232 and navitoclax enhance trametinib’s anti-Cancer activity in non-small cell lung cancer patient-derived xenografts with KRAS mutations
+LIFIRAFENIB;DABRAFENIB;CETUXIMAB,"BGB-283, a Novel RAF Kinase and EGFR Inhibitor, Displays Potent Antitumor Activity in BRAF-Mutated Colorectal Cancers"
+LAPATINIB;TRASTUZUMAB;PERTUZUMAB;TRASTUZUMAB EMTANSINE;TAS0728,Acquired resistance to trastuzumab/pertuzumab or to T-DM1 in vivo can be overcome by HER2 kinase inhibition with TAS0728
+SORAFENIB;EVEROLIMUS;DOCETAXEL;BEVACIZUMAB;PX-478;NERATINIB,Integrative In Vivo Drug Testing Using Gene Expression Signature and Patient-Derived Xenografts from Treatment-Refractory HER2 Positive and Triple-Negative Subtypes of Breast Cancer
+IRINOTECAN;VISTUSERTIB,Synergistic Anti-Tumor E ect of mTOR Inhibitors with Irinotecan on Colon Cancer Cells
+DASATINIB;PACLITAXEL,Identification of Src Family Kinases as Potential Therapeutic Targets for Chemotherapy-Resistant Triple Negative Breast Cancer
+SORAFENIB;GEMCITABINE;CISPLATIN;BEVACIZUMAB,Evaluation of Combined Chemotherapy and Genomic-Driven Targeted Therapy in Patient-Derived Xenografts Identifies New Therapeutic Approaches in Squamous Non-Small-Cell Lung Cancer Patients
+EVEROLIMUS;TRASTUZUMAB EMTANSINE,mTOR inhibition and trastuzumab-emtansine(T-DM1) in HER2-positive breast cancer 
+OSIMERTINIB;CAPIVASERTIB,Overcoming Osimertinib Resistance with AKT Inhibition in EGFRm-Driven Non–Small Cell Lung Cancer with PIK3CA/PTEN Alterations
+FULVESTRANT;AZD-9496;VEPDEGESTRANT,Oral Estrogen Receptor PROTAC Vepdegestrant (ARV-471) Is Highly Efficacious as Monotherapy and in Combination with CDK4/6 or PI3K/mTOR Pathway Inhibitors in Preclinical ER+ Breast Cancer Models
+CISPLATIN;ERLOTINIB,Sensitization of EGFR wild-type non-small cell lung cancer cells to EGFR-tyrosine kinase inhibitor erlotinib
+CISPLATIN;INFIGRATINIB,Cisplatin Increases Sensitivity to FGFR Inhibition in Patient-Derived Xenograft Models of Lung Squamous Cell Carcinoma
+AMIVANTAMAB;PEMBROLIZUMAB,Exploration of Immune-Modulatory Effects of Amivantamab in Combination with Pembrolizumab in Lung and Head and Neck Squamous Cell Carcinoma
+GEFITINIB;OSIMERTINIB;AFATINIB;CRIZOTINIB;ENTRECTINIB;BRIGATINIB;LORLATINIB;POZIOTINIB;TRASTUZUMAB DERUXTECAN,Comparative study on the efficacy and exposure of molecular target agents in non-small cell lung cancer PDX models with driver genetic alterations
+EVEROLIMUS;CDK8/19i,Mediator kinase inhibitors suppress triple- negative breast cancer growth and extend tumor suppression by mTOR and AKT inhibitors
+TRASTUZUMAB;LAPATINIB;PERTUZUMAB,Dual Fatty Acid Synthase and HER2 Signaling Blockade Shows Marked Antitumor Activity against Breast Cancer Models Resistant to Anti-HER2 Drugs
+DOCETAXEL;PACLITAXEL;DZ-2384;METHOTREXATE;CHLORAMBUCIL;anthracyclines;RITONAVIR;ELACRIDAR;SORAFENIB;FULVESTRANT;SUNITINIB;NIVOLUMAB;PEMBROLIZUMAB,DZ-2384 has a superior preclinical profile to taxanes for the treatment of triple-negative breast cancer and is synergistic with anti-CTLA-4 immunotherapy
+DOXORUBICIN;CISPLATIN;CARBOPLATIN;CYCLOPHOSPHAMIDE;DEFERASIROX,The iron chelator deferasirox synergises with chemotherapy to treat triple negative breast cancers.
+DASATINIB,"Evaluation of the efficacy of dasatinib, a Src/ Abl inhibitor, in colorectal cancer cell lines and explant mousemodel"
+OXALIPLATIN;EVEROLIMUS,Activation of the mTOR Pathway by Oxaliplatin in the Treatment of Colorectal Cancer Liver Metastasis
+CARBOPLATIN;Wnt inhibitor;CHIR;DIMETHYL SULFOXIDE,Wnt/β-Catenin Inhibition Disrupts Carboplatin Resistance in Isogenic Models of Triple-Negative Breast Cancer
+ERLOTINIB;GEFITINIB;OSIMERTINIB;AFATINIB,The Lifted Veil of Uncommon EGFR Mutation p.L747P in Non-Small Cell Lung Cancer: Molecular Feature and Targeting Sensitivity to Tyrosine Kinase Inhibitors
+OLAPARIB;4-CHLOROBENZOPHENONE,BRCA1-methylated triple negative breast cancers previously exposed to neoadjuvant chemotherapy form RAD51 foci and respond poorly to olaparib
+RITUXIMAB;PEMBROLIZUMAB;NIVOLUMAB;FULVESTRANT;SUNITINIB,HER4Affects Sensitivity to Tamoxifen and Abemaciclib in Luminal Breast Cancer Cells and Restricts Tumor Growth in MCF-7-Based Humanized Tumor Mice
+TRAMETINIB;ABT263,Low‑dose trametinib and Bcl‑xL antagonist have a specific antitumor effect in KRAS‑mutated colorectal cancer cells
+PACLITAXEL;GEMCITABINE,JAK2 regulates paclitaxel resistance in triple negative breast cancers
+PALBOCICLIB;RIBOCICLIB;ABEMACICLIB,RB expression confers sensitivity to CDK4/6 inhibitor–mediated radiosensitization across breast cancer subtypes

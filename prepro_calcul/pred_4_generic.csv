@@ -1,0 +1,30 @@
+single_drug,title,Generic_Drug_List
+PD;LEE,CDK4/6 Inhibitors Impede Chemoresistance and Inhibit Tumor Growth of Small Cell Lung Cancer,PALLADIUM;LEE
+-,Conditionally reprogrammed colorectal cancer cells combined with mouse avatars identify synergy between EGFR and MEK or CDK4/6 inhibitors,-
+trametinib; navitoclax; KRT-232,KRT-232 and navitoclax enhance trametinib’s anti-Cancer activity in non-small cell lung cancer patient-derived xenografts with KRAS mutations,TRAMETINIB;NAVITOCLAX;NAVTEMADLIN
+BGB-283; dabrafenib; cetuximab,"BGB-283, a Novel RAF Kinase and EGFR Inhibitor, Displays Potent Antitumor Activity in BRAF-Mutated Colorectal Cancers",LIFIRAFENIB;DABRAFENIB;CETUXIMAB
+lapatinib; trastuzumab; pertuzumab; T-DM1; TAS0728,Acquired resistance to trastuzumab/pertuzumab or to T-DM1 in vivo can be overcome by HER2 kinase inhibition with TAS0728,LAPATINIB;TRASTUZUMAB;PERTUZUMAB;TRASTUZUMAB EMTANSINE;TAS0728
+sorafenib; everolimus; docetaxel; bevacizumab; PX-478; neratinib,Integrative In Vivo Drug Testing Using Gene Expression Signature and Patient-Derived Xenografts from Treatment-Refractory HER2 Positive and Triple-Negative Subtypes of Breast Cancer,SORAFENIB;EVEROLIMUS;DOCETAXEL;BEVACIZUMAB;PX-478;NERATINIB
+irinotecan; AZD2014,Synergistic Anti-Tumor E ect of mTOR Inhibitors with Irinotecan on Colon Cancer Cells,IRINOTECAN;VISTUSERTIB
+dasatinib; paclitaxel,Identification of Src Family Kinases as Potential Therapeutic Targets for Chemotherapy-Resistant Triple Negative Breast Cancer,DASATINIB;PACLITAXEL
+sorafenib; gemcitabine; cisplatin; bevacizumab,Evaluation of Combined Chemotherapy and Genomic-Driven Targeted Therapy in Patient-Derived Xenografts Identifies New Therapeutic Approaches in Squamous Non-Small-Cell Lung Cancer Patients,SORAFENIB;GEMCITABINE;CISPLATIN;BEVACIZUMAB
+everolimus; T-DM1,mTOR inhibition and trastuzumab-emtansine(T-DM1) in HER2-positive breast cancer ,EVEROLIMUS;TRASTUZUMAB EMTANSINE
+osimertinib; capivasertib,Overcoming Osimertinib Resistance with AKT Inhibition in EGFRm-Driven Non–Small Cell Lung Cancer with PIK3CA/PTEN Alterations,OSIMERTINIB;CAPIVASERTIB
+fulvestrant; AZD-9496; vepdegestrant,Oral Estrogen Receptor PROTAC Vepdegestrant (ARV-471) Is Highly Efficacious as Monotherapy and in Combination with CDK4/6 or PI3K/mTOR Pathway Inhibitors in Preclinical ER+ Breast Cancer Models,FULVESTRANT;AZD-9496;VEPDEGESTRANT
+cisplatin; erlotinib,Sensitization of EGFR wild-type non-small cell lung cancer cells to EGFR-tyrosine kinase inhibitor erlotinib,CISPLATIN;ERLOTINIB
+cisplatin; BGJ398,Cisplatin Increases Sensitivity to FGFR Inhibition in Patient-Derived Xenograft Models of Lung Squamous Cell Carcinoma,CISPLATIN;INFIGRATINIB
+amivantamab; pembrolizumab,Exploration of Immune-Modulatory Effects of Amivantamab in Combination with Pembrolizumab in Lung and Head and Neck Squamous Cell Carcinoma,AMIVANTAMAB;PEMBROLIZUMAB
+gefitinib; osimertinib; afatinib; crizotinib; entrectinib; brigatinib; lorlatinib; poziotinib; trastuzumab deruxtecan,Comparative study on the efficacy and exposure of molecular target agents in non-small cell lung cancer PDX models with driver genetic alterations,GEFITINIB;OSIMERTINIB;AFATINIB;CRIZOTINIB;ENTRECTINIB;BRIGATINIB;LORLATINIB;POZIOTINIB;TRASTUZUMAB DERUXTECAN
+everolimus; CDK8/19i,Mediator kinase inhibitors suppress triple- negative breast cancer growth and extend tumor suppression by mTOR and AKT inhibitors,EVEROLIMUS;CDK8/19i
+trastuzumab; lapatinib; pertuzumab,Dual Fatty Acid Synthase and HER2 Signaling Blockade Shows Marked Antitumor Activity against Breast Cancer Models Resistant to Anti-HER2 Drugs,TRASTUZUMAB;LAPATINIB;PERTUZUMAB
+docetaxel; paclitaxel; DZ-2384; methotrexate; chlorambucil; anthracyclines; ritonavir; elacridar; sorafenib; fulvestrant; sunitinib; nivolumab; pembrolizumab,DZ-2384 has a superior preclinical profile to taxanes for the treatment of triple-negative breast cancer and is synergistic with anti-CTLA-4 immunotherapy,DOCETAXEL;PACLITAXEL;DZ-2384;METHOTREXATE;CHLORAMBUCIL;anthracyclines;RITONAVIR;ELACRIDAR;SORAFENIB;FULVESTRANT;SUNITINIB;NIVOLUMAB;PEMBROLIZUMAB
+doxorubicin; cisplatin; carboplatin; cyclophosphamide; deferasirox,The iron chelator deferasirox synergises with chemotherapy to treat triple negative breast cancers.,DOXORUBICIN;CISPLATIN;CARBOPLATIN;CYCLOPHOSPHAMIDE;DEFERASIROX
+dasatinib,"Evaluation of the efficacy of dasatinib, a Src/ Abl inhibitor, in colorectal cancer cell lines and explant mousemodel",DASATINIB
+oxaliplatin; everolimus,Activation of the mTOR Pathway by Oxaliplatin in the Treatment of Colorectal Cancer Liver Metastasis,OXALIPLATIN;EVEROLIMUS
+carboplatin; Wnt inhibitor; CHIR; DMSO,Wnt/β-Catenin Inhibition Disrupts Carboplatin Resistance in Isogenic Models of Triple-Negative Breast Cancer,CARBOPLATIN;Wnt inhibitor;CHIR;DIMETHYL SULFOXIDE
+erlotinib; gefitinib; osimertinib; afatinib,The Lifted Veil of Uncommon EGFR Mutation p.L747P in Non-Small Cell Lung Cancer: Molecular Feature and Targeting Sensitivity to Tyrosine Kinase Inhibitors,ERLOTINIB;GEFITINIB;OSIMERTINIB;AFATINIB
+olaparib; CBP,BRCA1-methylated triple negative breast cancers previously exposed to neoadjuvant chemotherapy form RAD51 foci and respond poorly to olaparib,OLAPARIB;4-CHLOROBENZOPHENONE
+rituximab; pembrolizumab; nivolumab; fulvestrant; sunitinib,HER4Affects Sensitivity to Tamoxifen and Abemaciclib in Luminal Breast Cancer Cells and Restricts Tumor Growth in MCF-7-Based Humanized Tumor Mice,RITUXIMAB;PEMBROLIZUMAB;NIVOLUMAB;FULVESTRANT;SUNITINIB
+trametinib; ABT263,Low‑dose trametinib and Bcl‑xL antagonist have a specific antitumor effect in KRAS‑mutated colorectal cancer cells,TRAMETINIB;ABT263
+paclitaxel; gemcitabine,JAK2 regulates paclitaxel resistance in triple negative breast cancers,PACLITAXEL;GEMCITABINE
+palbociclib; ribociclib; abemaciclib,RB expression confers sensitivity to CDK4/6 inhibitor–mediated radiosensitization across breast cancer subtypes,PALBOCICLIB;RIBOCICLIB;ABEMACICLIB

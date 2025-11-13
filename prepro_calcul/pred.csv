@@ -1,0 +1,144 @@
+drugs,title
+Sunitinib;Pazopanib;Paclitaxel,?A Model of Postsurgical Advanced Metastatic Breast Cancer More Accurately Replicates the Clinical Efficacy of Anti?angiogenic Drugs
+Eribulin mesylate;Palbociclib;LPM?3770277;CDK4/6 撅力力;Eribulin,"Doublet and Triplet Combinations of Eribulin, Fulvestrant, and Palbociclib in Preclinical Breast Cancer Models"
+Atezolizumab,Patient-derived non-small cell lung cancer xenograft mirrors complex tumor heterogeneity
+MLN0128;Trastuzumab;Fulvestrant;AZD2014;Lapatinib,Dual mTOR Kinase Inhibitor MLN0128 Sensitizes HR?/HER2? Breast Cancer Patient?Derived Xenografts to Trastuzumab or Fulvestrant
+Trametinib;GSK1120212;Palbociclib;Combination;CI?1040;GSK1120212,Synergistic antitumor activity of combined MEK and CDK4/6 inhibition in KRAS?mutant colorectal cancer models.
+Enzalutamide?,Enzalutamide and the selective androgen?receptor modulator RAD140 suppress growth of AR?positive breast cancer in xenograft models
+Savolitinib;Osimertinib;Savolitinib?+?Osimertinib,"Pharmacokinetic/Pharmacodynamic Analysis of Savolitinib plus Osimertinib in an EGFR Mutation Positive, MET-Amplified Non?Small Cell Lung Cancer Model"
+C4.4A?ADC;Control ADC;Cisplatin;Vinorelbine;Naked C4.4A?Ab,"Preclinical Antitumor Efficacy of BAY 1129980?
+ a Novel Auristatin-Based Anti-C4.4A (LYPD3)
+ Antibody?Drug Conjugate for the Treatment of
+ Non?Small Cell Lung Cancer"
+TAS0728;lapatinib;trastuzumab;tucatinib,Preclinical Activity of HER2-Selective Tyrosine Kinase Inhibitor Tucatinib as a Single Agent or in Combination withTrastuzumaborDocetaxelinSolidTumorModels
+IRN;rMETase;Methionine?restricted diet,"Targeting Methionine Addiction Combined With Low-dose Irinotecan Arrested Colon Cancer in Contrast to High-dose Irinotecan Alone, Which Was Ineffective, in a Nude-mouse Model"
+Regorafenib;5?Fluorouracil (5?FU);UCN?01;Gefitinib;Erlotinib,Regorafenib inhibits colorectal tumor growth through PUMA-mediated apoptosis
+Everolimus;Tamoxifen,Acquired Resistance to Endocrine Treatments Is Associated with Tumor-Specific Molecular Changes in Patient-Derived Luminal Breast Cancer Xenografts
+Erlotinib;Palbociclib;Anti?EGFR;Anti?CDK4/6;AR 撅力力;PI3K 撅力力,"Expression of MT4-MMP, EGFR, and RB in Triple-NegativeBreastCancerStronglySensitizes Tumors to Erlotinib and Palbociclib Combination Therapy"
+Lorlatinib;Ceritinib;Brigatinib;Alectinib;Crizotinib;Saracatinib (AZD0530);Vistusertib (AZD2014);Vimena?type,"Diverse Resistance Mechanisms to the Third-Generation
+ ALKInhibitor Lorlatinib in ALK-Rearranged Lung Cancer"
+Palbociclib (PD?0332991);Ribociclib;Abemaciclib,Short Term CDK4/6 Inhibition Radiosensitizes Estrogen Receptor 1 Positive Breast Cancers
+cetuximab;131I?huA5B7;cetuximab?+?131I?huA5B7,Significant Therapeutic Efficacy with Combined Radioimmunotherapy and Cetuximab in Preclinical Models of Colorectal Cancer
+Paclitaxel?+?Docetaxel;Erlotinib;JNJ?26481585 (EGFR?TKI);SOC,3-Dimensional Patient-Derived Lung Cancer Assays Reveal Resistance to Standards-of-Care Promoted by Stromal Cells but Sensitivity to Histone Deacetylase Inhibitors
+Sunitinib;Aflibercept,Differential Antitumor Activity of Aflibercept and Bevacizumab in Patient-Derived Xenograft Models of Colorectal Cancer
+Everolimus;Tamoxifen;ET,"Combining Neratinib with CDK4/6, mTOR, and MEK Inhibitors in Models of HER2-positive Cancer"
+Prexasertib;Samotolisib (LY3023414),"Preclinical Evaluation and Phase Ib Study of Prexasertib, a CHK1 Inhibitor, and Samotolisib (LY3023414), a Dual PI3K/mTOR Inhibitor"
+Neratinib;Lapatinib;Trastuzumab," Neratinib Synergizes with Trastuzumab Antibody Drug Conjugate or with Vinorelbine to 
+Treat HER2 Mutated Breast Cancer Patient Derived Xenografts and Organoids"
+Vemurafenib;Irinotecan;Cetuximab,"Phase 1B study of vemurafenib in combination with irinotecan and cetuximab in patients 
+with metastatic colorectal cancer with BRAFV600E mutation"
+ONO?7475;EGFR?TKI," ONO-7475, a Novel AXL Inhibitor, Suppresses the
+ Adaptive Resistance to Initial EGFR-TKI Treatment in
+ EGFR-Mutated Non?Small Cell Lung Cancer"
+CBL0137?(Curaxin);Cisplatin;CBL0137?+?Cisplatin,The FACT inhibitor CBL0137 Synergizes with Cisplatin in Small-Cell Lung Cancer by Increasing NOTCH1 Expression and Targeting Tumor Initiating Cells
+"	Eribulin;Olaparib","A Triple-negative Matrix-producing Breast Carcinoma Patient-derived Orthotopic Xenograft (PDOX) Mouse Model Is Sensitive to Bevacizumab and Vinorelbine, Regressed by Eribulin and Resistant to Olaparib"
+cisplatin;bevacizumab;trastuzumab;5?fluorouracil (5?FU);navelbine,CapecitabineEfficacyIsCorrelatedwithTYMPand RB1 Expression in PDX Established from Triple Negative Breast Cancers
+Rapamycin;ABT?737," Rapamycin Rescues ABT-737 Efficacy in Small Cell Lung
+ Cancer"
+PPFA?Crgd; Fulvestrant (generic);Faslodex (brand name for fulvestrant),"Nanoparticle-Based Combination Therapy Enhances
+ Fulvestrant Efficacy and Overcomes Tumor Resistance
+ in ER-Positive Breast Cancer"
+BBT?176,"BBT-176, a Novel Fourth-Generation Tyrosine Kinase Inhibitor for Osimertinib-Resistant EGFR Mutations in Non?Small Cell Lung Cancer"
+Regorafenib (REGO);Radiation Therapy (RT),Therapeutic Efficacy and Inhibitory Mechanism of Regorafenib Combined With Radiation in Colorectal Cancer
+Palbociclib;Abemaciclib,Abemaciclib Is Effective in Palbociclib-Resistant Hormone Receptor?Positive Metastatic Breast Cancers
+Repotrectinib;Crizotinib;Ceritinib;Entrectinib;clinical?available ROS1?TKIs,Repotrectinib Exhibits Potent Antitumor Activity in Treatment-Na?ve and Solvent-Front?Mutant ROS1-Rearranged Non?Small Cell Lung Cancer
+Binimetinib;Palbociclib;Binimetinib + Palbociclib,Targeting RAS Mutant Colorectal Cancer with Dual Inhibition of MEK and CDK4/6
+Dexamethasone (Dex);Mifepristone (Mif);C297 (DexC297),Discovery of a Glucocorticoid Receptor (GR) ActivitySignatureUsingSelectiveGRAntagonism in ER-Negative Breast Cancer
+Lurbinectedin,DeNovoandHistologically Transformed Small-Cell Lung Cancer Is Sensitive to Lurbinectedin Treatment Through the Modulation of EMT and NOTCH Signaling Pathways
+Estradiol (E);CDK4/6 inhibitors;Aromatase inhibitors,Estrogen Therapy Induces Receptor-Dependent DNA Damage Enhanced by PARP Inhibition in ER┉ Breast Cancer
+Palbociclib;ABT?199 (Venetoclax); Fulvestrant;anti?PD?1 antibody;Fulvestrant?+?Palbociclib;Fulvestrant?+?ABT?199;Fulvestrant?+?Palbociclib?+?ABT?199;Fulvestrant?+?Palbociclib?+?ABT?199?+?anti?PD?1,DualTargetingofCDK4/6andBCL2PathwaysAugments Tumor Response in Estrogen Receptor?Positive Breast Cancer
+Elacestrant;Fulvestrant (reference SERD);Palbociclib (CDK4/6 inhibitor);Everolimus (mTOR inhibitor);Elacestrant+Palbociclib;Fulvestrant+?Palbociclib;Elacestrant?+?Everolimus;Fulvestrant?+?Everolimus,"Elacestrant (RAD1901), a Selective Estrogen
+ Receptor Degrader (SERD), Has Antitumor
+ Activity in Multiple ER┉ Breast Cancer
+ Patient-derived Xenograft Models"
+Erlotinib; Palbociclib; MLN0128 (dual mTOR 撅力力); Paclitaxel,Oxidative Phosphorylation Is a Metabolic Vulnerability in Chemotherapy-Resistant Triple-Negative Breast Cancer
+Everolimus;Cisplatin;Paclitaxel;Ixabepilone;Capecitabine,APopulation of Heterogeneous Breast Cancer Patient-Derived Xenografts Demonstrate Broad Activity of PARP Inhibitor in BRCA1/2 Wild-Type Tumors
+AZD1775 (Wee1 撅力力);CDK2 撅力力;Carboplatin,Cyclin E Overexpression Sensitizes Triple Negative Breast Cancer to Wee1 Kinase Inhibition
+RAD140;Palbociclib;RAD140?+?Palbociclib;Fulvestrant;DHT,Selective Androgen Receptor Modulator RAD140 Inhibits the Growth of Androgen/Estrogen Receptor?Positive Breast Cancer Models with a Distinct Mechanism of Action
+PD?0332991 (palbociclib);LEE?011 (ribociclib),CDK4/6 Inhibitors Impede Chemoresistance and Inhibit Tumor Growth of Small Cell Lung Cancer
+"EGFRi (抗: erlotinib, gefitinib, osimertinib 殿);MEKi (抗: trametinib, selumetinib, cobimetinib 殿;CDKi (抗: palbociclib, ribociclib, abemaciclib 殿)",Conditionally reprogrammed colorectal cancer cells combined with mouse avatars identify synergy between EGFR and MEK or CDK4/6 inhibitors
+Trametinib; Dabrafenib; Navitoclax;Lapatinib;Pembrolizumab;BCL?2/BCL?XL (Navitoclax);MDM2,KRT-232 and navitoclax enhance trametinib’s anti-Cancer activity in non-small cell lung cancer patient-derived xenografts with KRAS mutations
+BGB?283,"BGB-283, a Novel RAF Kinase and EGFR Inhibitor, Displays Potent Antitumor Activity in BRAF-Mutated Colorectal Cancers"
+TAS0728; Trastuzumab;Pertuzumab;T?DM1 (Trastuzumab?Emtansine);Lapatinib,Acquired resistance to trastuzumab/pertuzumab or to T-DM1 in vivo can be overcome by HER2 kinase inhibition with TAS0728
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
